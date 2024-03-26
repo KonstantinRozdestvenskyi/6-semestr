@@ -1,0 +1,11 @@
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\bin\Debug\lab1.exe.config
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\bin\Debug\lab1.exe
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\bin\Debug\lab1.pdb
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.exe
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.pdb
+C:\Users\kosta\OneDrive\Рабочий стол\Компьютерная графика\lab1\obj\Debug\lab1.Form2.resources
